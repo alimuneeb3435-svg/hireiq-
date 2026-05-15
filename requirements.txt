@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-community
+langsmith
+crewai
+pdfplumber
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
