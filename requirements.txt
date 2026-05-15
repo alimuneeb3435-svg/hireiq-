@@ -5,6 +5,9 @@ langchain-groq
 langchain-community
 langsmith
 crewai
+litellm
+groq
+openai
 pdfplumber
 chromadb
 sentence-transformers
