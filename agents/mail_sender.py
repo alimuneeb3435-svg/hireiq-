@@ -9,8 +9,13 @@ load_dotenv()
 
 def send_email(to_email: str, subject: str, body: str) -> bool:
     try:
-        sender_email = os.getenv("EMAIL_SENDER") or st.secrets.get("EMAIL_SENDER")
-        sender_password = os.getenv("EMAIL_PASSWORD") or st.secrets.get("EMAIL_PASSWORD")
+        # Try secrets first, then fall back to env
+        try:
+            sender_email = st.secrets["EMAIL_SENDER"]
+            sender_password = st.secrets["EMAIL_PASSWORD"]
+        except:
+            sender_email = os.getenv("EMAIL_SENDER")
+            sender_password = os.getenv("EMAIL_PASSWORD")
         
         print("EMAIL:", sender_email)
         if not sender_email or not sender_password:
