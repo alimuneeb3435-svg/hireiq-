@@ -3,13 +3,14 @@ from config.prompts import CLIENT_AGENT_PROMPT
 from utils.rag_setup import get_rag_answer
 import os
 from dotenv import load_dotenv
+import streamlit as st
 
 load_dotenv()
 
 llm = ChatGroq(
     temperature=0.3,
     model_name="llama-3.3-70b-versatile",
-    api_key=os.getenv("GROQ_API_KEY")
+    api_key=os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY")
 )
 
 def answer_client_question(question: str) -> str:
