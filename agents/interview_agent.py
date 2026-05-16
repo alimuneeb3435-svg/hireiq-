@@ -1,13 +1,14 @@
 from crewai import Agent, Task, Crew, Process, LLM
 import os
 from dotenv import load_dotenv
+import streamlit as st
 
 load_dotenv()
 
 llm = LLM(
     model="groq/llama-3.3-70b-versatile",
     temperature=0.7,
-    api_key=os.getenv("GROQ_API_KEY")
+   api_key=os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY")
 )
 
 def is_valid_cv(cv_text: str) -> bool:
