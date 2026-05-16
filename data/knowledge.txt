@@ -1,0 +1,95 @@
+TECHNOVA SOLUTIONS - COMPANY KNOWLEDGE BASE
+============================================
+
+COMPANY OVERVIEW
+----------------
+TechNova Solutions is a leading software development and AI consulting company based in Lahore, Pakistan. Founded in 2018, we specialize in building enterprise software, AI-powered systems, and digital transformation solutions for businesses across Pakistan and the Middle East.
+
+SERVICES
+--------
+1. Custom Software Development - We build tailored web and mobile applications for businesses
+2. AI & Machine Learning Solutions - We develop intelligent systems including chatbots, recommendation engines, and predictive analytics
+3. ERP & CRM Implementation - We implement and customize enterprise resource planning systems
+4. IT Consulting - We provide strategic technology consulting for digital transformation
+5. Cloud Solutions - We help businesses migrate to and manage cloud infrastructure
+6. Cybersecurity Services - We provide security audits, penetration testing, and security solutions
+
+CONTACT INFORMATION
+-------------------
+Address: 24 Tech Avenue, Gulberg III, Lahore, Pakistan
+Phone: +92-42-3571-8900
+Email: info@technovasolutions.pk
+Website: www.technovasolutions.pk
+Working Hours: Monday to Friday, 9:00 AM to 6:00 PM PKT
+Saturday: 10:00 AM to 2:00 PM (by appointment only)
+
+JOB ROLES WE HIRE FOR
+----------------------
+1. AI/ML Engineer - Build and deploy machine learning models and AI systems
+   Requirements: Python, TensorFlow/PyTorch, LangChain, 2+ years experience
+
+2. Software Engineer - Develop web and mobile applications
+   Requirements: React, Node.js or Django, SQL, 2+ years experience
+
+3. Data Scientist - Analyze data and build predictive models
+   Requirements: Python, SQL, Statistics, Machine Learning, 2+ years experience
+
+4. Project Manager - Lead software development projects
+   Requirements: PMP certification preferred, Agile/Scrum, 3+ years experience
+
+5. Business Analyst - Bridge gap between business and technology
+   Requirements: Requirements gathering, process modeling, 2+ years experience
+
+6. DevOps Engineer - Manage CI/CD pipelines and cloud infrastructure
+   Requirements: AWS/Azure, Docker, Kubernetes, 2+ years experience
+
+INTERVIEW PROCESS
+-----------------
+Step 1: Submit CV through HireIQ system
+Step 2: AI-powered initial screening interview (5 questions)
+Step 3: Technical assessment (if shortlisted)
+Step 4: Final interview with department head
+Step 5: Offer letter within 5 working days of final interview
+
+COMPANY CULTURE & VALUES
+------------------------
+- Innovation First: We encourage creative thinking and new ideas
+- Continuous Learning: We invest in employee training and development
+- Work-Life Balance: Flexible working hours and hybrid work options
+- Diversity & Inclusion: We welcome talent from all backgrounds
+- Client Satisfaction: We are committed to delivering excellence
+
+VISITOR POLICY
+--------------
+Visitors are welcome at TechNova Solutions during working hours.
+All visits must be scheduled in advance through our HireIQ system.
+A company guide will be assigned to each visitor.
+Available visit slots: 10:00 AM, 12:00 PM, 2:00 PM, 4:00 PM
+Visit duration: approximately 45-60 minutes
+Visitors must bring valid ID for security purposes
+
+GUIDE AVAILABILITY SCHEDULE
+----------------------------
+Guide 1 - Ahmed Khan: Available Monday, Wednesday, Friday
+Guide 2 - Sara Malik: Available Tuesday, Thursday
+Guide 3 - Usman Ali: Available Monday to Friday (senior guide)
+
+FREQUENTLY ASKED QUESTIONS
+---------------------------
+Q: How long does the hiring process take?
+A: The complete process takes 2-3 weeks from CV submission to final decision.
+
+Q: Do you offer internships?
+A: Yes, we offer 3-month paid internships for final year students.
+
+Q: What is the salary range?
+A: Salaries are competitive and based on experience. Entry level starts at PKR 60,000/month.
+
+Q: Do you offer remote work?
+A: Yes, we offer hybrid work model - 3 days office, 2 days remote after probation period.
+
+Q: What benefits do you offer?
+A: Health insurance, annual bonus, 20 days paid leave, professional development budget.
+
+Q: How can a client request a meeting?
+A: Clients can schedule a visit through HireIQ or email us at info@technovasolutions.pk
