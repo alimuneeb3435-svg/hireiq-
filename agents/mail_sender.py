@@ -4,12 +4,13 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
 from dotenv import load_dotenv
+import streamlit as st
 
 load_dotenv()
 def send_email(to_email: str, subject: str, body: str) -> bool:
     try:
-        sender_email = os.getenv("EMAIL_SENDER")
-        sender_password = os.getenv("EMAIL_PASSWORD")
+        smtp_user = os.getenv("EMAIL_SENDER") or st.secrets.get("EMAIL_SENDER")
+        smtp_password = os.getenv("EMAIL_PASSWORD") or st.secrets.get("EMAIL_PASSWORD")
 
         print("EMAIL:", sender_email)
 
